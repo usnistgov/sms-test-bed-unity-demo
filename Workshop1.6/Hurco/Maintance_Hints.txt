@@ -1,0 +1,39 @@
+CHECKING AXIS POSITIONING ON A HURCO MACHINE TOOL
+
+Assume X axis, could be any axis, the procedure will work for any axis with suitable modification.
+​Set up a fixed point. Can be the edge of a vise jaw or a pin or block attached to the table.
+Set up a dial indicator (“.0001” preferable). Use a magnetic base to head / spindle assembly.
+Set up part zero same as you would for a part program.
+Set indicator to read 0.0000” against the fixed point.
+Jog X away from part zero.
+Program the control to position away from part zero then to return to zero (Auto Run Mode).
+Program a stop block at part zero to read the indicator. Record the indicator reading.
+Modify the program to do multiples passes (10 or more) before stopping.
+If the error continues to grow in the same direction, you most likely have a bad encoder. If the error remains in a fixed range, say (+/- .0150”); Visually inspect the mechanical set up of the axis thrust bearings. Check the endplay on the ball screw, at the motor end if possible. This can done by setting an indicator against the end of the ball screw and jogging the axis back & forth. You should have 0.0003 to 0.0005” in most cases.
+
+Using grease to stick Ball Bearing to the screw end will give a better reading.
+
+Also check for play in the ball nut assembly. This can be Done by jogging the axis up to an indicator affixed to the spindle / head, load the indicator to 0.010” to 0.015”. Record the displayed axis position. Slowly jog away from the indicator until the indicator just shows a change in axis position. Calculate the change in displayed position (subtract the two readings.) How far does the control indicate the axis has moved before the indicator reports change?. This is the amount of error in the ballscrew & nut assembly. Less than 0.0003” to 0.0005” is normal. The control can compensate for a small amount of error, as long as the error is stable. If the error varies from move to move replace the ball screw & nut assembly.
+
+
+
+
+
+
+
+Directions to determine the source of the Constant Beep
+Open the Power box and on the Left side wall you will see the Main Computer Card (the Big one) at the top edge in the center unplug the cable. Tab on each side of connection push outwards to release.
+Once unplugged leave it off and turn on Power. Is the BEEP still present? If so you have a failed Main board.
+If the Beep is gone, power down and plug the cable back in make sure the tabs go all the way up!
+Power on to see if beep is back. If it is Back Power off again!
+Open the Back of the Control head. Find the Cable that comes from the keyboard. (It comes out of a slot in the Aluminum plate left side low.
+Unplug this from the small circuit board it plugs into. Power on again!
+Is the Beep Gone? If so you need a New Key board.
+If BEEP is still present, power down again pull the cable that comes down the Pendant from the Small board and power up. Is the Beep Gone? If not then the control harness is bad, if it is gone you have either a bad RUN STOP BOARD (the small board) or one of the two push buttons have failed.
+RUN STOP BOARD	415 0128 905
+Stop Switch	404 3677 002
+Run Switch	404 3677 001
+Main board.	415 0124 500T
+Key Board	405 3001 026T
+Control Cable	423 0200 001
+Any questions please call 1-800 638 1849
