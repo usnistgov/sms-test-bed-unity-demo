@@ -15,7 +15,19 @@ This repository includes
 William Bernstein | william.bernstein@nist.gov <br /> 
 Teodor Vernica | teodor.vernica@nist.gov
 
-## Acknowledgement for reused code if any
+## Acknowledgement for reused code
+- 3D models from [GrabCAD](https://grabcad.com/)
+  - [Hurco](https://grabcad.com/library/hurco-vm1-vertical-milling-machine-model-1)
+  - DMU-50_2: https://grabcad.com/library/dmu-50-2
+  - Mikron_HSM400: https://grabcad.com/library/mikron-hsm400-u-1
+  - 4_axis_cnc_machine: https://grabcad.com/library/4-axis-cnc-machine-1
+  - CNC_Lathe_7: https://grabcad.com/library/cnc-lathe-7
+  - CNC_Workstation: https://grabcad.com/library/cnc-5axis-machine-and-workstation-1
+  - DMC_80: https://grabcad.com/library/dmc-80-u-1
+  - DMG_CTX_Gamma_1250: https://grabcad.com/library/dmg-ctx-gamma-1250-tc-1
+  - DMU_50_EVO: https://grabcad.com/library/dmu-50-evo-linear-1
+  - Mori_Seiki_NT5400_1: https://grabcad.com/library/mori-seiki-nt-5400-1
+
 
 ## Disclaimer
 This work represents an official contribution of NIST and hence is not subject to copyright in the US. Identification of commercial systems are for demonstration purposes only and does not imply recommendation or endorsement by NIST. 
