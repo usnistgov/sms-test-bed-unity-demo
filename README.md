@@ -11,7 +11,7 @@ This repository showcases a prototype.  We designed the prototype to interface d
 ## Installation Process
 
 ## Contact Information
-William Bernstein | william.bernstein@nist.gov <br /> 
+William Bernstein | william.bernstein@nist.gov | [NIST Page](https://www.nist.gov/people/william-z-bernstein) <br /> 
 Teodor Vernica | teodor.vernica@nist.gov
 
 ## Acknowledgement of reused models, manuals, and code
