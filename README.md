@@ -13,6 +13,7 @@ This repository includes
 
 ## Contact Information
 William Bernstein | william.bernstein@nist.gov
+
 Teodor Vernica | teodor.vernica@nist.gov
 
 ## Acknowledgement for reused code if any
