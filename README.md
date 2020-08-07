@@ -12,8 +12,7 @@ This repository includes
 ## Installation Process
 
 ## Contact Information
-William Bernstein | william.bernstein@nist.gov
-
+William Bernstein | william.bernstein@nist.gov <br /> 
 Teodor Vernica | teodor.vernica@nist.gov
 
 ## Acknowledgement for reused code if any
