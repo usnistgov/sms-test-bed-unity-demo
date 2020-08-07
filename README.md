@@ -8,7 +8,7 @@ The goal of this project is to link performance data and geospatial information 
 ## Prototype details
 This repository showcases a prototype.  We designed the prototype to interface directly with data streaming from the [SMS Test Bed](https://www.nist.gov/laboratories/tools-instruments/smart-manufacturing-systems-sms-test-bed).  To apply these concepts to other manfuacturing installations, considerable rework is required.  Furthermore, we do not provide precise 3D models for the individual machines from the SMS Test Bed.  Instead, we use open and free 3D models of similar machines from [GrabCAD](https://grabcad.com/).  Similarly, we do not include the precise manuals for each machine represnted.  Instead, we use publicly available machine tool manuals for demonstration purposes only.   
 
-## Installation Process
+## Installation and Use
 - Clone the repository
 - Open the *IndoorMTC Mk2.2* folder in Unity version 2019.3.06f or later
 - Open one of the two scenes in the *Assets/Scenes* folder
