@@ -9,10 +9,14 @@ This repository showcases a prototype.  We designed the prototype to interface d
 <img src="/figures/usecase1.png" alt="Use Case 1" height="200"/> <img src="/figures/usecase2-1.png" alt="Use Case 2" height="200"/>
 
 ## Installation Process
+- Clone the repository
+- Open the *IndoorMTC Mk2.2* folder in Unity version 2019.3.06f or later
+- Open one of the two scenes in the *Assets/Scenes* folder
+- Open the *Workshop1.6.gml* file in the *Workshop1.6* folder
 
 ## Contact Information
 William Bernstein | william.bernstein@nist.gov | [NIST Page](https://www.nist.gov/people/william-z-bernstein) <br /> 
-Teodor Vernica | teodor.vernica@nist.gov
+Teodor Vernica | teodor.vernica@nist.gov | [NIST Page](https://www.nist.gov/people/teodor-vernica)
 
 ## Acknowledgement of reused models, manuals, and code
 - 3D models from [GrabCAD](https://grabcad.com/)
@@ -27,6 +31,11 @@ Teodor Vernica | teodor.vernica@nist.gov
   - [DMU_50_EVO](https://grabcad.com/library/dmu-50-evo-linear-1)
   - [Mori_Seiki_NT5400_1](https://grabcad.com/library/mori-seiki-nt-5400-1)
 - Machine tool manuals from [Hurco website](https://www.hurco.eu/products/3-axis-machining-centers/)
+- Reused code
+    - [InViewer-Desktop](https://github.com/STEMLab/InViewer-Desktop)
+    - [Unity Standalone File Browser](https://github.com/gkngkc/UnityStandaloneFileBrowser)
+    - [poly2tri-cs](https://github.com/MaulingMonkey/poly2tri-cs)
+    - [Unity ObjImporter](http://wiki.unity3d.com/index.php?title=ObjImporter)
 
 ## Disclaimer
 This work represents an official contribution of NIST and hence is not subject to copyright in the US. Identification of commercial systems are for demonstration purposes only and does not imply recommendation or endorsement by NIST. 
