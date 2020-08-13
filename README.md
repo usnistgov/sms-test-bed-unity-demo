@@ -38,4 +38,4 @@ Teodor Vernica | teodor.vernica@nist.gov | [NIST Page](https://www.nist.gov/peop
     - [Unity ObjImporter](http://wiki.unity3d.com/index.php?title=ObjImporter)
 
 ## Disclaimer
-This work represents an official contribution of NIST and hence is not subject to copyright in the US. Identification of commercial systems are for demonstration purposes only and does not imply recommendation or endorsement by NIST. 
+[NIST Disclaimer](https://www.nist.gov/disclaimer) 
